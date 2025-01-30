@@ -15,7 +15,7 @@ spec:
         app: web-app
     spec:
       containers:
-        - image: mbps54/test-web-app:v1
+        - image: mbps54/test-web-app:v2
           name: web-app
           resources:
             requests:
